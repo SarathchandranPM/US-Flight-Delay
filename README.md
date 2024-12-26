@@ -17,3 +17,5 @@ A comprehensive Power BI analysis of 2 million commercial flights from major US 
 - Airline performance comparison through clustered bar charts
 - Cancellation reason breakdown via pie charts
 - Day-of-week cancellation patterns
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/cf300d5f-f6b0-47a2-89f4-3667d01704a3" />
+
