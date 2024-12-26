@@ -1,5 +1,3 @@
-Here's a comprehensive project description for your portfolio:
-
 ## US Flight Delay Analysis Project
 
 A comprehensive Power BI analysis of 2 million commercial flights from major US airports to identify patterns in flight delays and cancellations. The project demonstrates advanced data modeling, DAX calculations, and visualization techniques to generate actionable insights.
